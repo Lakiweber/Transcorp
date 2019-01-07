@@ -1,2 +1,0 @@
-# Transcorp
-Transcorp development spase
